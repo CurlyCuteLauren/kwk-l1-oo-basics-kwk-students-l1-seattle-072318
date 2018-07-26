@@ -8,4 +8,5 @@ class Shoe
     @type = type
   end
   
+  
 # Make your shoe class here!
